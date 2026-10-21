@@ -1,0 +1,38 @@
+{
+  "apiBaseUrl": "",
+  "siteUrl": "https://www.flowtrend.com.br",
+  "links": {
+    "home": "https://www.flowtrend.com.br/",
+    "explore": "#pautas",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "youtube": "https://www.youtube.com/",
+    "instagram": "https://www.instagram.com/",
+    "facebook": "https://www.facebook.com/"
+  },
+  "ads": {
+    "enabled": false,
+    "slots": {
+      "hero": {
+        "enabled": false,
+        "type": "adsense",
+        "client": "",
+        "slot": "",
+        "format": "auto",
+        "link": "",
+        "image": "",
+        "label": "Publicidade"
+      },
+      "grid": {
+        "enabled": false,
+        "type": "adsense",
+        "client": "",
+        "slot": "",
+        "format": "auto",
+        "link": "",
+        "image": "",
+        "label": "Publicidade"
+      }
+    }
+  }
+}
